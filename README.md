@@ -26,3 +26,34 @@
 	<li>You must have administrator privileges to run the program.</li>
 	<li>It is recommended to save all open programs and files before using the program.</li>
 </ul>
+
+
+
+<h1>Kapanma Zamanlayıcısı [TR]</h1>
+
+<p>Seçili bir uygulamayı veya bilgisayarınızı belirli bir süre sonra tamamen otomatik olarak kapatmanızı veya yeniden başlatmanızı sağlayan basit bir program.</p>
+
+<h3>Özellikler:</h3>
+<ul>
+	<li>Saat, dakika ve saniye cinsinden zamanlayıcı ayarı.</li>
+	<li>Kapatma veya yeniden başlatma seçeneği.</li>
+	<li>İşlemi iptal etme seçeneği.</li>
+	<li>Geri sayım zamanlayıcısı.</li>
+	<li>Kolay kurulum ve çalıştırma.</li>
+	<li>Kullanıcı dostu arayüz.</li>
+</ul>
+
+<h3>Kullanım Alanları:</h3>
+<ul>
+	<li>Uzun süreli indirmeleri veya işlemleri otomatik olarak kapatmak için.</li>
+	<li>Bilgisayarınızı belirli bir zamanda kapatarak enerji tasarrufu sağlamak için.</li>
+	<li>Çocuklarınızın bilgisayar kullanım süresini sınırlamak için.</li>
+	<li>Belirli bir süre sonra sizi yormadan kapanması.</li>
+</ul>
+
+<h3>Ek Bilgi:</h3>
+<ul>
+	<li>Program Windows 10 işletim sistemi için tasarlanmıştır.</li>
+	<li>Programı çalıştırmak için yönetici ayrıcalıklarına sahip olmanız gerekir.</li>
+	<li>Programı kullanmadan önce tüm açık programları ve dosyaları kaydetmeniz önerilir.</li>
+</ul>
